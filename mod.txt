@@ -9,7 +9,7 @@
     "hooks":[  
         {  
             "hook_id":"lib/managers/menumanager",
-            "script_path":"Spoof.lua"
+            "script_path":"spoof.lua"
         }
     ]
 }
